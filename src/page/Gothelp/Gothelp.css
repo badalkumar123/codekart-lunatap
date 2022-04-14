@@ -1,0 +1,183 @@
+.helppage {
+  position: absolute;
+  width: 1348px;
+  height: 750px;
+  margin-top: 6573px;
+
+  background: #161b2f;
+}
+.gethelp {
+  position: absolute;
+  width: 166px;
+  height: 40px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+  margin-left: 600px;
+  margin-top: 50px;
+}
+.helppara{
+    position: absolute;
+width: 563px;
+height: 46px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+margin-left: 400px;
+margin-top: 90px;
+}
+.form1{
+    position: absolute;
+width: 710px;
+height: 550px;
+
+background: #FFFFFF;
+margin-left: 330px;
+margin-top: 170px;
+}
+.nametext{
+    position: absolute;
+width: 60px;
+height: 23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.05em;
+margin-left: 40px;
+margin-top: 50px ;
+
+color: #000000;
+}
+.nameinput{
+    position: absolute;
+    width: 622px;
+    height: 51px;
+    
+    background: #000000;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.emailtext{
+    position: absolute;
+width: 171px;
+height: 23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.05em;
+margin-top: 140px;
+    margin-left: 40px;
+
+color: #000000;
+}
+.emailinput{
+    position: absolute;
+    width: 622px;
+    height: 51px;
+    
+    background: #000000;
+    margin-top: 170px;
+    margin-left: 40px;
+}
+.phonetext{
+    position: absolute;
+width: 171px;
+height: 23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.05em;
+margin-top: 230px;
+    margin-left: 40px;
+}
+.phoneinput{
+    position: absolute;
+    width: 622px;
+    height: 51px;
+    
+    background: #000000;
+    margin-top: 260px;
+    margin-left: 40px;
+}
+.messagetext{
+    position: absolute;
+width: 113px;
+height: 23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.05em;
+margin-top: 320px;
+    margin-left: 40px;
+
+}
+.messageinput{
+    position: absolute;
+    width: 622px;
+    height: 70px;
+    
+    background: #000000;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.label1{
+    display: flex;
+    margin-bottom: 40px;
+}
+.helpbutton{
+    position: absolute;
+    width: 622px;
+    height: 48px;
+    border-radius: 0px;
+    border: 0px;
+    
+    background: #183bd6;
+    margin-top: 450px;
+    margin-left: 40px;
+}
+.helpbutton h3{
+    
+    width: 171px;
+    height: 23px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #ffffff;
+    margin-left: 230px;
+    
+}

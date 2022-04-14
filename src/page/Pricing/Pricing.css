@@ -1,0 +1,139 @@
+.pric{
+    position: absolute;
+  width: 166px;
+  height: 40px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin-top: 70px;
+  margin-left: 600px;
+  color: #000000;
+
+}
+.pricpara{
+    position: absolute;
+width: 878px;
+height: 46px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+margin-top: 130px;
+  margin-left: 250px;
+
+}
+.pricebox{
+    position: absolute;
+width: 372px;
+height: 175px;
+
+background: #161B2F;
+margin-top: 230px;
+  margin-left: 500px;
+}
+.ten{
+    position: absolute;
+width: 132px;
+height: 53px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 120px;
+margin-top: 70px;
+
+color: #FFFFFF;
+
+}
+.percharge{
+    position: absolute;
+width: 104px;
+height: 23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: 0.05em;
+
+margin-left: 140px;
+margin-top: 115px;
+
+color: #FFFFFF;
+
+}
+.box2{
+    position: absolute;
+width: 372px;
+height: 80px;
+
+background: #ffffff;
+margin-left: 500px;
+margin-top: 405px;
+
+
+}
+.box2text{
+    position: absolute;
+    width: 227px;
+    height: 46px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #000000;
+    margin-left: 75px;
+    margin-top: 20px;
+    
+}
+.pricelastnote{
+    position: absolute;
+width: 684px;
+height: 21px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #5a5a5a;
+margin-left: 350px;
+margin-top: 540px;
+
+}
+.pricecointainer{
+    position: absolute;
+    
+    
+    height: 650px;
+    background: #dae1ff;
+    width: 1348px;
+    margin-top: 5423px;
+}

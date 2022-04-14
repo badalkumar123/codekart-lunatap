@@ -1,0 +1,26 @@
+.lunanav{
+   
+    font-weight: bold;
+    margin-left: 20px;
+   
+
+}
+.insidenav{
+    font-style: normal;
+    
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+}
+
+.insidenav:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.topnav{
+    position: absolute;
+    margin-top: 10px;
+}
+.me-auto{
+    margin-left: 800px;
+}

@@ -1,0 +1,136 @@
+.container{
+    position: absolute;
+    width: 1349px;
+    height: 1400px;
+}
+.topheading {
+  position: absolute;
+  width: 675px;
+  height: 112px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin-top: 40px;
+  margin-left: 200px;
+  color: #000000;
+}
+.googlestore{
+    position: absolute;
+    width: 260px;
+    margin-top: 120px;
+    margin-left: 550px;
+}
+.appleestore{
+    position: absolute;
+    width: 240px;
+    height: 72px;
+    margin-left: 280px;
+    margin-top: 135px;
+
+}
+.posi{
+    position: absolute;
+    display: flex;
+    margin-left: 120px;
+    margin-top: 55px;
+}
+.girlpic{
+    position: absolute;
+    margin-left: 674px;
+    margin-top: 750px;
+    width: 660px;
+    height: 674px;
+
+
+}
+.colorwall{
+    position: absolute;
+    background-color: #00529e;
+    width: 674px;
+    height: 674px;
+    
+    margin-right: 55px;
+    margin-top: 750px;
+}
+.mobi{
+    position: absolute;
+    height: 600px;
+    width: 790px;
+    margin-top: 300px;
+    margin-left: 280px;
+}
+.strip{
+    position: absolute;
+left: 0%;
+right: 16.72%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 26px;
+letter-spacing: 0.05em;
+margin-top: 1100px;
+margin-left: 170px;
+
+color: #cfcbcb;
+}
+.money{
+    position: absolute;
+width: 348px;
+height: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+letter-spacing: 0.05em;
+
+color: #ffffff;
+margin-top: 1130px;
+margin-left: 157px;
+
+}
+.paraone{
+    position: absolute;
+width: 347px;
+height: 203px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0.05em;
+
+color: #cfcbcb;
+margin-top: 1180px;
+margin-left: 157px;
+
+}
+.logo1{
+    position: absolute;
+    margin-top: 1020px;
+margin-left: 180px;
+color: #cfcbcb;
+}
+.logo2{
+    position: absolute;
+    margin-top: 1020px;
+margin-left: 250px;
+color: #cfcbcb;
+}
+.logo3{
+    position: absolute;
+    margin-top: 1020px;
+margin-left: 320px;
+color: #cfcbcb;
+}
