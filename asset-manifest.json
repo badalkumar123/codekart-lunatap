@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/codekart-lunatap/static/css/main.7dbc195c.css",
+    "main.js": "/codekart-lunatap/static/js/main.4c235f81.js",
+    "static/js/787.e0345237.chunk.js": "/codekart-lunatap/static/js/787.e0345237.chunk.js",
+    "static/media/mobile1.png": "/codekart-lunatap/static/media/mobile1.bdf1e0d8a03406550f14.png",
+    "static/media/apple.png": "/codekart-lunatap/static/media/apple.69cfe4f22d7a062caf51.png",
+    "static/media/girl.jpg": "/codekart-lunatap/static/media/girl.51f11ea914013c3f4742.jpg",
+    "static/media/google-play-badge.png": "/codekart-lunatap/static/media/google-play-badge.f902960a94878ee0da67.png",
+    "index.html": "/codekart-lunatap/index.html",
+    "main.7dbc195c.css.map": "/codekart-lunatap/static/css/main.7dbc195c.css.map",
+    "main.4c235f81.js.map": "/codekart-lunatap/static/js/main.4c235f81.js.map",
+    "787.e0345237.chunk.js.map": "/codekart-lunatap/static/js/787.e0345237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbc195c.css",
+    "static/js/main.4c235f81.js"
+  ]
+}
